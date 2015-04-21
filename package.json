@@ -15,7 +15,8 @@
     "through": "^2.3.7"
   },
   "devDependencies": {
-    "tape": "~2.3.2"
+    "del": "^1.1.1",
+    "tape": "^4.0.0"
   },
   "scripts": {
     "test": "tape test/*.js"
